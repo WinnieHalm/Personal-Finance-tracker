@@ -15,6 +15,7 @@ Visual Reports: Use charts to view income and expenses.
 Goal Tracking: Set savings goals and get notifications on progress.
 
 Technologies Used
+
 Frontend: React (Web) and React Native (Mobile)
 
 Backend: Node.js with Express
@@ -22,3 +23,16 @@ Backend: Node.js with Express
 Database: PostgreSQL
 
 Security: JWT for authentication and bcrypt for password protection
+
+Getting Started
+
+Installation
+
+Clone the repository:git clone https://github.com/WinnieHalm/personal-finance-tracker.git
+cd personal-finance-tracker
+
+Testing
+
+Use Jest for unit tests.
+
+Use Postman to test API endpoints.
